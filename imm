@@ -1,2 +1,11 @@
-
-
+Program Sisters_age;
+var
+J,S,R:Integer;
+Begin
+J:= 10;
+S:= J*2+1;
+R:= S-13;
+Writeln('Susan is 'S'years old',);
+Writeln ('Rita is 'R'years old',);
+Readln;
+End.
